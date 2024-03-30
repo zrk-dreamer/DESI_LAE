@@ -11,3 +11,4 @@ Extracting_QSO_spectra_quick_new_faster-2.py
 .ipynb_checkpoints/my_coadd_spectra-checkpoint.py
 .ipynb_checkpoints/Extracting_QSO_spectra_quick_new_faster-2-checkpoint.py
 .ipynb_checkpoints/.gitignore-checkpoint
+__pycache__/my_coadd_spectra.cpython-310.pyc
